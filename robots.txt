@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://concepthatches5m.github.io/sz-f16/sitemap.xml
